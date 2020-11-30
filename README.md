@@ -1,4 +1,7 @@
-README
+**DISCLAIMER**
+
+This project seems to have been a successful implementation of an assignment that landed me the keys of a very famous
+kingdom. Use at your own discretion. I offer no warranty or support of any type.
 
 # Main Packages
 
